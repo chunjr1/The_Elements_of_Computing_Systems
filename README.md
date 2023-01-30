@@ -1,4 +1,4 @@
-# The_Elements_of_Computing_Systems
+# The_Elements_of_Computing_Systems - Status **(holding)**
 
 01-26 | Day 1 📚 지은이의 글, 서론 (안녕, 밑바닥 세상아) ✔️ TIL
 
